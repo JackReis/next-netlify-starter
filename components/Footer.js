@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/logo-black.svg" alt="JackAReis.com Logo" className={styles.logo} />
+        <a href="https://jack.digital"><img src="/logo-unicorn.svg" alt="JackAReis.com Logo" className={styles.logo} /></a>
       </footer>
     </>
   )
